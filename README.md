@@ -16,19 +16,17 @@ set-executionpolicy unrestricted
 Install-Module Selenium
 ```
 
-Install .NET then install selenium Webdrive https://www.nuget.org/packages/Selenium.WebDriver (donet)
-
-Get WebDriver
-https://docs.microsoft.com/fr-fr/microsoft-edge/webdriver-chromium?tabs=c-sharp
-
 The script is using Webdriver, check this .exe
 > chromewebdriver.exe
 
 > C:\Program Files\WindowsPowerShell\Modules\Selenium\3.0.1\assemblies
 
-Tested with Google Chrome 8.5
+If it doesn't work: 
 
 Check your Chrome Version here with: `chrome://version/`
+
+And get the chromewebdriver for your Chrome version and replace it
+https://sites.google.com/a/chromium.org/chromedriver/downloads
 
 3. **Add your info and the link**
 
