@@ -6,11 +6,15 @@
 
  1. **Authorize script**
 
-`set-executionpolicy unrestricted`
+```Powershell
+set-executionpolicy unrestricted
+```
 
  2. **Install Powershell Selenium**
 
-`Install-Module Selenium`
+```Powershell
+Install-Module Selenium
+```
 
 Install .NET then install selenium Webdrive https://www.nuget.org/packages/Selenium.WebDriver (donet)
 
