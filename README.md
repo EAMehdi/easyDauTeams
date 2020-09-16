@@ -4,11 +4,11 @@
 
  ## Guide
 
- 1. Authorize script
+ 1. **Authorize script**
 
 `set-executionpolicy unrestricted`
 
- 2. Install Powershell Selenium
+ 2. **Install Powershell Selenium**
 
 `Install-Module Selenium`
 
@@ -25,7 +25,7 @@ Tested with Google Chrome 8.5
 
 Check your Chrome Version here with: `chrome://version/`
 
-3. Add your info and the link
+3. **Add your info and the link**
 
 Exemple:
 ```Powershell
