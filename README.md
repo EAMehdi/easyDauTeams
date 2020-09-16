@@ -23,6 +23,7 @@ https://docs.microsoft.com/fr-fr/microsoft-edge/webdriver-chromium?tabs=c-sharp
 
 The script is using Webdriver, check this .exe
 > chromewebdriver.exe
+
 > C:\Program Files\WindowsPowerShell\Modules\Selenium\3.0.1\assemblies
 
 Tested with Google Chrome 8.5
