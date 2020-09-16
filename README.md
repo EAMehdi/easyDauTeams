@@ -1,6 +1,6 @@
 # easyDauTeams
 
- Personnal script to automatically access my University Teams account on Google Chrome in windows 10 using Selenium
+ Personnal script to automatically access my University (Paris Dauphine) Teams account on Google Chrome in windows 10 using Selenium
 
  ## Guide
 
