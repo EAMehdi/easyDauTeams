@@ -1,7 +1,10 @@
-﻿# Mail, username, password (At Your Own Risk)
+﻿# Mail, username (At Your Own Risk)
 $mail=""
 $username=""
-$pwd=""
+
+$pwd= Read-Host -assecurestring "Enter Your Dauphine's Password"
+$pwd= [System.Runtime.InteropServices.Marshal]::PtrToStringAuto([System.Runtime.InteropServices.Marshal]::SecureStringToBSTR($pwd))
+clear
 
 # Microsoft Link you want to go
 $link=""

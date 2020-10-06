@@ -25,11 +25,10 @@ Tested with Google Chrome 8.5
 
 Check your Chrome Version here with: `chrome://version/`
 
-3. Add your info and the link
+3. Add your info and the link inside the script
 
 Exemple:
 ```Powershell
 $mail="madmax@dauphine.eu"
 $username="madmax20"
-$pwd="123"
 ```
