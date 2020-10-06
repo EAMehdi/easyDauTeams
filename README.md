@@ -29,7 +29,7 @@ Check your Chrome Version here with: `chrome://version/`
 And get the chromewebdriver for your Chrome version and replace it
 https://sites.google.com/a/chromium.org/chromedriver/downloads
 
-3. Add your info and the link script
+3. Add your info and the link inside the script
 
 Exemple:
 ```Powershell
